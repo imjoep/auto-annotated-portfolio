@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: The Home Depot
 description: >-
   Facilitated the deployment of Kubernetes into the back of every Home Depot
-  store
+  store (over 2,200).  
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
