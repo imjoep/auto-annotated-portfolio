@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Multi-cloud Storefront
 date: '2022-06-11'
 client: IBM
-description: ''
+description: >-
+  A cloud storefront designed to give teams ownership and visibility into policy
+  and costs of the different cloud providers
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
