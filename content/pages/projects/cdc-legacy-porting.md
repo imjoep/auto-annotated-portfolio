@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Easing the Burden for States to Modernize their Systems
 date: '2025-02-10'
-client: CDC
+client: Centers for Disease Control (CDC)
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
