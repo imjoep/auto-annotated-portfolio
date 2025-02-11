@@ -4,8 +4,8 @@ title: 'Health, Financial, and University Websites and Mobile Apps'
 date: '2015-07-16'
 client: 'Mastercard, Novartis, University of North Carolina'
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Agency building and managing multiple websites and mobile applications to
+  drive employee and user engagement.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
