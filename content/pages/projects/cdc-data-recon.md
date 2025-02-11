@@ -4,8 +4,8 @@ title: Helping States Ensure Accurate Data For the CDC
 date: '2025-02-11'
 client: Centers for Disease Control (CDC)
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Ensuring the data that states report to the federal government is accurate and
+  reliable.  
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
