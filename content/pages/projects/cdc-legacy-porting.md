@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Easing the Burden of States Modernizing their Systems
+title: Easing the Burden for States to Modernize their Systems
 date: '2025-02-10'
 client: Awesome client
 description: >-
