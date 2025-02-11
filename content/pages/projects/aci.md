@@ -28,3 +28,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+*   Boosting system speed by optimizing infrastructure
+
