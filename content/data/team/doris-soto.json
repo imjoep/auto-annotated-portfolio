@@ -9,5 +9,6 @@
         "caption": "Caption of the image",
         "elementId": ""
     },
-    "role": "Program Manager"
+    "role": "Program Manager",
+    "bio": "I'm Joe\n"
 }
