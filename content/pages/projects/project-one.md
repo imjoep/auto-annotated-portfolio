@@ -6,7 +6,7 @@ date: '2021-10-15'
 client: Air Force
 description: >-
   The Data Mesh for the Data Fabric of the Air Force.  Enabling the
-  democratization 
+  democratization of data within a DoD environment.  
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
