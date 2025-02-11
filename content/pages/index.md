@@ -61,7 +61,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/the-home-depot.md
       - content/pages/projects/uem.md
       - content/pages/projects/acdc.md
