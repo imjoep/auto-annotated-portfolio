@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Boosting system speed by optimizing infrastructure
 date: '2013-05-11'
-client: Awesome client
+client: ACI Worldwide
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
