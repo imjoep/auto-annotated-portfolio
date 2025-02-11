@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Boosting system speed by optimizing infrastructure
 date: '2013-05-11'
 client: ACI Worldwide
-description: 'Modernizing '
+description: >-
+  Speeding up the payment processing engine for multiple customers including
+  Domino's Pizza and Bridgestone Tires
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
