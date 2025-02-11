@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Enhancing Department of Public Safety's Private Security Licensing
 date: '2018-05-11'
-client: Awesome client
+client: Texas NIC / Texas.gov
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
