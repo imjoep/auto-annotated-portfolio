@@ -4,8 +4,8 @@ title: Enhancing Department of Public Safety's Private Security Licensing
 date: '2018-05-11'
 client: Texas NIC / Texas.gov
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Making it easier to apply, assess, and approve private security applications
+  for both individuals and businesses.  
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
