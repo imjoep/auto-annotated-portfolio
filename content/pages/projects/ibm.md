@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Multi-cloud Storefront
 date: '2022-06-11'
-client: Awesome client
+client: IBM
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
