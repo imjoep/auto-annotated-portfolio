@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Helping States Ensure Accurate Data For the CDC
 date: '2025-02-11'
-client: Awesome client
+client: Centers for Disease Control (CDC)
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
