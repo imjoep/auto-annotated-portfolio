@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Easing the Burden for States to Modernize their Systems
 date: '2025-02-10'
 client: Centers for Disease Control (CDC)
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Migrating legacy data using automation techniques
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
