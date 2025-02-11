@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Health, Financial, and University Websites and Mobile Apps'
 date: '2015-07-16'
-client: Awesome client
+client: 'MasterCard, '
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
