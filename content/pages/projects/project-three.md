@@ -4,7 +4,9 @@ title: User Experience Monitoring (UEM)
 colors: colors-a
 date: '2022-01-22'
 client: Air Force
-description: 'Tracks '
+description: >-
+  Web analytics software that tracks users within a DoD environment. Supporting
+  numerous websites and mobile applications within the Air Force.  
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
