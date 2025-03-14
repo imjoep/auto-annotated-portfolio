@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Home Depot Infrastructure Modernization
+title: DELETE - Home Depot Infrastructure Modernization
 date: '2021-12-20'
 client: The Home Depot
 description: >-
