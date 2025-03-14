@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "I’m Joe Pattavina. a PROGRAM\_ Manager, Product manager, project manager, solution manager, STRATEGIC THINKER, And Microcertificate creator."
-    subtitle: >-
-      Successfully building and deploying Responsible for HUNDREDS of millions
-      of dollars over the course of my career.
+    subtitle: My
     styles:
       self:
         height: auto
