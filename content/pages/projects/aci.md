@@ -22,5 +22,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-*   Boosting system speed by optimizing infrastructure
+Domino’s Pizza has partnered with ACI to consolidate payments processing, add more features and improve personalization for customers ordering online. The new system enables Domino’s to accept new payment types in the future, and will be available across all locations. Domino’s Pizza selected ACI Worldwide to help manage the costs of accepting payments. Domino’s was also looking for more than just a software provider, it was looking for a well established brand to support the company’s commitment to investing in the latest technology for current and future opportunities. Additionally, ACI’s offering met Domino’s stringent demands for customer data security.
 
