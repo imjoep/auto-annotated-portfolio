@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/txgov_logo.png
-  altText: Project thumbnail image
+  altText: Texas.gov Logo
   caption: ''
   elementId: ''
 media:
