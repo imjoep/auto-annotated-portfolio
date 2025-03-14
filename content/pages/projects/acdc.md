@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2025-03-14 at 11.41.10 AM.png
   altText: Project image
 bottomSections: []
 metaTags: []
