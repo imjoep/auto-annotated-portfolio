@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2025-03-14 at 12.18.11 PM.png
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
