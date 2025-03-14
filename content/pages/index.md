@@ -46,10 +46,49 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
+    text: >+
       Graduating from the University of Nebraska at Omaha with a degree in
       **Management Information Systems** (MIS) set the trajectory for my
-      career.  Once 
+      career.  
+
+
+      After graduation, I moved to Houston and worked as a **Developer /
+      Business Analyst** for *Aon Hewitt* (a Fortune 500 company) in the
+      ***financial** *and ***benefits outsourcing*** career field.  After 4.5
+      years, we decided to move back to Nebraska.
+
+
+      Wanting to try my hand at a more technical role, I took a job at *ACI
+      Worldwide* as a **Systems Engineer** in the ***financial** *industry
+      setting up the infrastructure for their Point of Sale systems**.**  I
+      learned quickly that I enjoyed the business side of things more and my
+      wife and I decided to move to Austin, TX after less than a year.
+
+
+      My first role down in Austin was for *W2O Group* ****(a smaller agency) as
+      a **Solution Manager**.  For W2O, I acted as the liaison between the
+      customers, the UX team, the developers, and senior leaders at the
+      company.  We built multiple websites and mobile applications for
+      MasterCard, numerous pharmaceutical companies, and universities.  
+
+
+      From W2O, I moved over to *NIC Inc./Texas.gov* as a **Scrum Master /
+      Product Owner**.  We managed the Texas.gov website and modernized the
+      vehicle inspection process as well as the private security license
+      process.  With millions of vehicle inspections per year, we focused
+      heavily on minimizing user interactions, thus speeding up the entire
+      process.  For private security, we took a process that averaged 6 months
+      to get a license, and reduced it to 2 weeks.  NIC focused on ***state
+      government***.  We lost the contract renewal to Deloitte, who was able to
+      undercut us.
+
+
+      I then became a **Product Manager** at *IBM* building a hybrid cloud
+      storefront.  Working with business development teams and customers to help
+      define requirements, working with User Experience (UX) to design it,
+      working with developers to build it, and then working with automated
+      Quality Assurance (QA) to test it.  
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
