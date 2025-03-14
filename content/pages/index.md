@@ -17,7 +17,8 @@ sections:
     subtitle: >-
       Focused on building and maintaining meaningful relationships, improving
       painful processes by eliminating useless steps and implementing automation
-      and customizations where applicable,
+      and customizations where applicable, and identifying operational
+      improvements to increase efficiency.
     styles:
       self:
         height: auto
