@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Health, Financial, and University Websites and Mobile Apps'
+title: 'DELETE - Health, Financial, and University Websites and Mobile Apps'
 date: '2015-07-16'
 client: 'Mastercard, Novartis, University of North Carolina'
 description: >-
