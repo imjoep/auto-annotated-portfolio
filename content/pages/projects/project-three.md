@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-03-14 at 12.09.37 PM.png
-  altText: Project image
+  altText: UEM Project image
 ---
 User Experience Monitoring (UEM) is an enterprise application monitoring suite designed to track, monitor, and report application and user data, focusing on quantitative and qualitative metrics. It currently uses Matomo as its site analytics tool to capture user activity within a website, generating aggregate reports on visit histories, performance metrics, and system configurations. This data collection is facilitated by a JavaScript code snippet that is integrated into the application's web pages, usually just after the opening \`<body>\` tag. Once live, this snippet collects data every time a user visits the app and sends it to Matomo's HTTP tracking API, including details like visit time, page being visited, and browser information, which is then securely stored on Cloud One.
 
