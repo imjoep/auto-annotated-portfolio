@@ -46,30 +46,29 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       Graduating from the University of Nebraska at Omaha with a degree in
-      **Management Information Systems** (MIS) set the trajectory for my
-      career.  
+      **Management Information Systems** (MIS) set the trajectory for my career.
 
 
       After graduation, I moved to Houston and worked as a **Developer /
       Business Analyst** for *Aon Hewitt* (a Fortune 500 company) in the
-      ***financial** *and ***benefits outsourcing*** career field.  After 4.5
+      \***financial** \*and ***benefits outsourcing*** career field.  After 4.5
       years, we decided to move back to Nebraska.
 
 
       Wanting to try my hand at a more technical role, I took a job at *ACI
-      Worldwide* as a **Systems Engineer** in the ***financial** *industry
-      setting up the infrastructure for their Point of Sale systems**.**  I
+      Worldwide* as a **Systems Engineer** in the ***financial** industry
+      setting up the infrastructure for their Point of Sale systems*.\*\*  I
       learned quickly that I enjoyed the business side of things more and my
       wife and I decided to move to Austin, TX after less than a year.
 
 
-      My first role down in Austin was for *W2O Group* ****(a smaller agency) as
-      a **Solution Manager**.  For W2O, I acted as the liaison between the
-      customers, the UX team, the developers, and senior leaders at the
-      company.  We built multiple websites and mobile applications for
-      MasterCard, numerous pharmaceutical companies, and universities.  
+      My first role down in Austin was for *W2O Group* \*\*\*\*(a smaller
+      agency) as a **Solution Manager**.  For W2O, I acted as the liaison
+      between the customers, the UX team, the developers, and senior leaders at
+      the company.  We built multiple websites and mobile applications for
+      MasterCard, numerous pharmaceutical companies, and universities.
 
 
       From W2O, I moved over to *NIC Inc./Texas.gov* as a **Scrum Master /
@@ -87,8 +86,22 @@ sections:
       storefront.  Working with business development teams and customers to help
       define requirements, working with User Experience (UX) to design it,
       working with developers to build it, and then working with automated
-      Quality Assurance (QA) to test it.  
+      Quality Assurance (QA) to test it.
 
+
+      Post **IBM** I pursued an opportunity at *The Home Depot* as an
+      **Internal** **Product Manager**.  Leading an initiative to get Kubernetes
+      deployed into the back of every retail store, leading to more efficient
+      modernization of infrastructure and applications running on store
+      hardware.  This was my first experience in ***retail***.  We successfully
+      deployed K8s to the back of every store in North America and Canada.  
+
+
+      I then had an opportunity to work for our ***federal government*** with
+      *Omni Federal* (a smaller consulting agency) as a **Program Manager**. 
+      While at Omni, I honed my skills in financial management, resource
+      management, license management, product management, and project
+      management.  
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
