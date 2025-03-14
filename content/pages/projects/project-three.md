@@ -9,7 +9,7 @@ description: >-
   numerous websites and mobile applications within the Air Force.  
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/UEM Logo_Color_onDark.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
