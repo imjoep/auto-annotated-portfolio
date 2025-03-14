@@ -15,7 +15,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "About Me",
                 "altText": "",
                 "url": "/info",
                 "showIcon": false,
