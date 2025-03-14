@@ -24,7 +24,7 @@ backgroundImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-03-14 at 11.59.42 AM.png
-  altText: altText of the image
+  altText: 'IBM '
   caption: Caption of the image
   elementId: ''
 ---
