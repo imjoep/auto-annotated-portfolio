@@ -8,15 +8,15 @@ description: >-
   for both individuals and businesses.  
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
+  url: /images/txgov_logo.png
+  altText: Texas.gov Logo
   caption: ''
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Screenshot 2025-03-14 at 12.18.11 PM.png
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
