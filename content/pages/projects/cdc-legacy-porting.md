@@ -13,7 +13,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-03-14 at 11.52.23 AM.png
-  altText: altText of the image
+  altText: Legacy Shift Project
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
