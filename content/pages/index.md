@@ -117,8 +117,8 @@ sections:
     projects:
       - content/pages/projects/acdc.md
       - content/pages/projects/cdc-legacy-porting.md
-      - content/pages/projects/aci.md
       - content/pages/projects/cdc-data-recon.md
+      - content/pages/projects/aci.md
       - content/pages/projects/texas-nic.md
       - content/pages/projects/ibm.md
     styles:
