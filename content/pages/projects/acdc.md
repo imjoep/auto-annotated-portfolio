@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-03-14 at 11.41.10 AM.png
-  altText: Project image
+  altText: ACDC Project Image
 bottomSections: []
 metaTags: []
 colors: colors-a
