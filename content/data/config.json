@@ -5,14 +5,9 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
-        "isTitleVisible": true,
+        "title": "Joe Pattavina",
+        "isTitleVisible": false,
         "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
             {
                 "type": "Link",
                 "label": "Projects",
@@ -20,30 +15,36 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "About Me",
+                "altText": "",
+                "url": "/info",
+                "showIcon": false,
+                "icon": "apple",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/joepattavina/",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/jp logo.png",
+            "altText": "JP Logo",
+            "caption": "",
+            "elementId": ""
         }
     },
     "footer": {
