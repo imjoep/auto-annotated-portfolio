@@ -7,7 +7,7 @@ description: Migrating legacy data using automation techniques
 featuredImage:
   type: ImageBlock
   url: /images/cdc-roundfacebooklogo300.png
-  altText: altText of the image
+  altText: CDC Logo
   caption: Caption of the image
   elementId: ''
 media:
