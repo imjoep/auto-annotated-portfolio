@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/UEM Logo_Color_onDark.png
-  altText: Project thumbnail image
+  altText: UEM Logo
 media:
   type: ImageBlock
   url: /images/bg3.jpg
