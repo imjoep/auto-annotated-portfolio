@@ -16,7 +16,8 @@ sections:
     title: "I’m Joe Pattavina. a PROGRAM\_ Manager, Product manager, project manager, solution manager, STRATEGIC THINKER, And Microcertificate creator."
     subtitle: >-
       Focused on building and maintaining meaningful relationships, improving
-      painful processes using automation and customizations
+      painful processes by eliminating useless steps and implementing automation
+      and customizations where applicable,
     styles:
       self:
         height: auto
