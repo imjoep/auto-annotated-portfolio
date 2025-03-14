@@ -46,8 +46,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
-      HELLOo
+    text: >
+      Graduating from the University of Nebraska at Omaha with a degree in
+      **Management Information Systems** (MIS) set the trajectory for my
+      career.  Once 
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
