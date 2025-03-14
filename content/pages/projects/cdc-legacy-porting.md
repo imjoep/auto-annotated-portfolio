@@ -14,7 +14,7 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2025-03-14 at 11.52.23 AM.png
   altText: Legacy Shift Project
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
