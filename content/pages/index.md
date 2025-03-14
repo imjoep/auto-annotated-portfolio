@@ -116,7 +116,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/acdc.md
-      - content/pages/projects/uem.md
       - content/pages/projects/aci.md
       - content/pages/projects/cdc-legacy-porting.md
       - content/pages/projects/cdc-data-recon.md
