@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Product Logos (CMYK)_acdc_navy_300 px.png
-  altText: altText of the image
+  altText: ACDC
   caption: Caption of the image
   elementId: ''
 media:
