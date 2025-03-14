@@ -42,7 +42,7 @@
             "type": "ImageBlock",
             "url": "/images/jp logo.png",
             "altText": "JP Logo",
-            "caption": "Caption of the image",
+            "caption": "",
             "elementId": ""
         }
     },
