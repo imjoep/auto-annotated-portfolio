@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Product Logos (CMYK)_acdc_navy_300 px.png
   altText: ACDC
-  caption: Caption of the image
+  caption: ACDC Logo
   elementId: ''
 media:
   type: ImageBlock
