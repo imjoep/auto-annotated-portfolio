@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/cdc-roundfacebooklogo300.png
-  altText: CDC Logo
+  altText: CDC
   caption: ''
   elementId: ''
 media:
