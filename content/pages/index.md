@@ -121,6 +121,8 @@ sections:
       - content/pages/projects/ibm.md
       - content/pages/projects/aci.md
       - content/pages/projects/texas-nic.md
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
     styles:
       self:
         height: auto
