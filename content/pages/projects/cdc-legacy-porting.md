@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/cdc-roundfacebooklogo300.png
   altText: CDC Logo
-  caption: Caption of the image
+  caption: CDC Logo
   elementId: ''
 media:
   type: ImageBlock
