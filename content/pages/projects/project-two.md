@@ -9,7 +9,7 @@ description: >-
   store (over 2,200).  
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/THD_logo.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
