@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/IBM_logo.svg.png
-  altText: Project thumbnail image
+  altText: IBM Logo
   caption: ''
   elementId: ''
 media:
