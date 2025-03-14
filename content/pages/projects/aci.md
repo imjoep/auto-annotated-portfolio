@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/ACI_Stacked-642x379.png
-  altText: Project thumbnail image
+  altText: ACI Worldwide
   caption: ''
   elementId: ''
 addTitleSuffix: true
