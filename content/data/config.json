@@ -41,7 +41,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/jp logo.png",
-            "altText": "altText of the image",
+            "altText": "JP Logo",
             "caption": "Caption of the image",
             "elementId": ""
         }
