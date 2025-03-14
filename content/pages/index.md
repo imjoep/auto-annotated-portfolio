@@ -121,7 +121,6 @@ sections:
       - content/pages/projects/cdc-data-recon.md
       - content/pages/projects/texas-nic.md
       - content/pages/projects/ibm.md
-      - content/pages/projects/w2o.md
     styles:
       self:
         height: auto
