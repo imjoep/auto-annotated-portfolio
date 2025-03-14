@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a PROGRAM MANAGER, STRATEGIC THINKER, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a PROGRAM MANAGER, Product manager, project manager, solution manager,
+      STRATEGIC THINKER, consultant.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
