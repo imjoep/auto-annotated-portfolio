@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/THD_logo.jpg
-  altText: Project thumbnail image
+  altText: Home Depot Logo
 media:
   type: ImageBlock
   url: /images/bg2.jpg
