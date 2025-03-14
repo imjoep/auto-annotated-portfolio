@@ -8,15 +8,9 @@ description: >-
   Domino's Pizza and Bridgestone Tires
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project thumbnail image
-  caption: ''
-  elementId: ''
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Project image
-  caption: Caption of the image
+  url: /images/ACI_Stacked-642x379.png
+  altText: ACI Worldwide
+  caption: ACI Worldwide Logo
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
