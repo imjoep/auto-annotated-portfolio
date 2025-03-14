@@ -24,7 +24,16 @@
                 "elementId": ""
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/joepattavina/",
+                "icon": "linkedin",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
