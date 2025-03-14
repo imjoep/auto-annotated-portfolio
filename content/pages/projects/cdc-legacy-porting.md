@@ -6,7 +6,7 @@ client: Centers for Disease Control (CDC)
 description: Migrating legacy data using automation techniques
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/cdc-roundfacebooklogo300.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
