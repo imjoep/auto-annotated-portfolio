@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/ACI_Stacked-642x379.png
   altText: ACI Worldwide
-  caption: ''
+  caption: ACI Worldwide Logo
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
