@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "Joe Pattavina",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
